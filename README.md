@@ -1,4 +1,4 @@
-<h1>Hi, I'm Scott! <br/><a href="(https://www.linkedin.com/in/schultzsas/)>Cybersecurity Professional</a>
+<h1>Hi, I'm Scott! <br/><a href="https://www.linkedin.com/in/schultzsas/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
